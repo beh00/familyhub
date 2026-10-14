@@ -1,4 +1,5 @@
 MILK
 Eggs
 Rice
-Chicken
+ChickenOrange-Juice 
+Coffee 
